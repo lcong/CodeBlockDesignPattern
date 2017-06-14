@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1456629769 source:d:\dp\decorator\decorator.cpp
+	"Decorator.h"
+	<iostream>
+
+1456629183 d:\dp\decorator\decorator.h
+
+1456629183 source:d:\dp\decorator\main.cpp
+	"Decorator.h"
+	<iostream>
+

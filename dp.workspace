@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="Template/Template.cbp" />
+		<Project filename="AbstractFactory/AbstractFactory.cbp" />
+		<Project filename="Adapter/Adapter.cbp" />
+		<Project filename="FactoryMethod/FactoryMethod.cbp" />
+		<Project filename="SimpleFactory/SimpleFactory.cbp" />
+		<Project filename="Strategy/Strategy.cbp" />
+		<Project filename="Bridge/Bridge.cbp" />
+		<Project filename="Builder/Builder.cbp" />
+		<Project filename="Decorator/Decorator.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
