@@ -13,10 +13,13 @@ Human * CHumanFactory::CreateHuman(int HumanType)
 	{
 	case 1:
 		return new CWhiteHuman();
+		break;
 	case 2:
 		return new CYellowHuman();
+		break;
 	case 3:
 		return new CBlackHuman();
+		break;
 	default:
 		return new CYellowHuman();
 		break;
